@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zipcode": "10001"
+    }
+  },
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": {
+      "street": "456 Elm Street",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zipcode": "60601"
+    }
+  },
+  {
+    "name": "Emma Johnson",
+    "email": "emma.johnson@example.com",
+    "address": {
+      "street": "789 Oak Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zipcode": "94101"
+    }
+  },
+  {
+    "name": "Michael Williams",
+    "email": "michael.williams@example.com",
+    "address": {
+      "street": "321 Pine Street",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA",
+      "zipcode": "98101"
+    }
+  },
+  {
+    "name": "Sarah Brown",
+    "email": "sarah.brown@example.com",
+    "address": {
+      "street": "876 Maple Street",
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA",
+      "zipcode": "02101"
+    }
+  },
+  {
+    "name": "David Miller",
+    "email": "david.miller@example.com",
+    "address": {
+      "street": "654 Walnut Street",
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA",
+      "zipcode": "19101"
+    }
+  },
+  {
+    "name": "Jessica Davis",
+    "email": "jessica.davis@example.com",
+    "address": {
+      "street": "234 Cedar Street",
+      "city": "Houston",
+      "state": "TX",
+      "country": "USA",
+      "zipcode": "77001"
+    }
+  },
+  {
+    "name": "Christopher Wilson",
+    "email": "christopher.wilson@example.com",
+    "address": {
+      "street": "543 Birch Street",
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA",
+      "zipcode": "33101"
+    }
+  },
+  {
+    "name": "Amanda Martinez",
+    "email": "amanda.martinez@example.com",
+    "address": {
+      "street": "876 Pine Street",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA",
+      "zipcode": "30301"
+    }
+  },
+  {
+    "name": "Kevin Taylor",
+    "email": "kevin.taylor@example.com",
+    "address": {
+      "street": "123 Oak Street",
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA",
+      "zipcode": "80201"
+    }
+  },
+  {
+    "name": "Emily Anderson",
+    "email": "emily.anderson@example.com",
+    "address": {
+      "street": "456 Elm Street",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA",
+      "zipcode": "78701"
+    }
+  },
+  {
+    "name": "Ryan Garcia",
+    "email": "ryan.garcia@example.com",
+    "address": {
+      "street": "789 Maple Street",
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA",
+      "zipcode": "97201"
+    }
+  },
+  {
+    "name": "Olivia Rodriguez",
+    "email": "olivia.rodriguez@example.com",
+    "address": {
+      "street": "987 Cedar Street",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "USA",
+      "zipcode": "89101"
+    }
+  },
+  {
+    "name": "Daniel Hernandez",
+    "email": "daniel.hernandez@example.com",
+    "address": {
+      "street": "654 Walnut Street",
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA",
+      "zipcode": "92101"
+    }
+  },
+  {
+    "name": "Isabella Lopez",
+    "email": "isabella.lopez@example.com",
+    "address": {
+      "street": "123 Pine Street",
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA",
+      "zipcode": "75201"
+    }
+  },
+  {
+    "name": "Matthew Martinez",
+    "email": "matthew.martinez@example.com",
+    "address": {
+      "street": "456 Oak Street",
+      "city": "Detroit",
+      "state": "MI",
+      "country": "USA",
+      "zipcode": "48201"
+    }
+  },
+  {
+    "name": "Emma Johnson",
+    "email": "emma.johnson@example.com",
+    "address": {
+      "street": "789 Elm Street",
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA",
+      "zipcode": "55401"
+    }
+  },
+  {
+    "name": "Alexander Lee",
+    "email": "alexander.lee@example.com",
+    "address": {
+      "street": "234 Birch Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA",
+      "zipcode": "85001"
+    }
+  },
+  {
+    "name": "Madison Walker",
+    "email": "madison.walker@example.com",
+    "address": {
+      "street": "876 Cedar Street",
+      "city": "Tampa",
+      "state": "FL",
+      "country": "USA",
+      "zipcode": "33601"
+    }
+  },
+  {
+    "name": "James Young",
+    "email": "james.young@example.com",
+    "address": {
+      "street": "321 Walnut Street",
+      "city": "Orlando",
+      "state": "FL",
+      "country": "USA",
+      "zipcode": "32801"
+    }
+  }
+]
